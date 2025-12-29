@@ -1,0 +1,14 @@
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\bin\Debug\net10.0\1.exe
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\bin\Debug\net10.0\1.deps.json
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\bin\Debug\net10.0\1.runtimeconfig.json
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\bin\Debug\net10.0\1.dll
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\bin\Debug\net10.0\1.pdb
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\obj\Debug\net10.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\obj\Debug\net10.0\1.AssemblyInfoInputs.cache
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\obj\Debug\net10.0\1.AssemblyInfo.cs
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\obj\Debug\net10.0\1.csproj.CoreCompileInputs.cache
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\obj\Debug\net10.0\1.dll
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\obj\Debug\net10.0\refint\1.dll
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\obj\Debug\net10.0\1.pdb
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\obj\Debug\net10.0\1.genruntimeconfig.cache
+C:\Users\BunnyKing\Desktop\Нужнае\Проекты VS\1\1\obj\Debug\net10.0\ref\1.dll
